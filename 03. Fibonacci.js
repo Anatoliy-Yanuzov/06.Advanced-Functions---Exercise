@@ -8,3 +8,11 @@ function solve() {
         return result || 1;
     }
 }
+let result = solve();
+console.log(result());
+console.log(result());
+console.log(result());
+console.log(result());
+console.log(result());
+console.log(result());
+console.log(result());
